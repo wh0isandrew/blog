@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313"
+baseURL = "https://andrew0x00.vercel.app"
 title   = "Hi, I'm André"
 languageCode = "en-us"
 theme = "hello-friend-ng"
