@@ -118,21 +118,20 @@ disableHugoGeneratorInject = false
   # plausibleScriptSource = 'https://plausible.io/js/script.js'
 
   [params.author]
-    name = "Jane Doe"
+    name = "andrew0x00"
 
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
   #
   [params.footer]
-    trademark = 2023
-    rss = true
+    trademark = 2025
+    rss = false
     copyright = true
     author = true
 
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
 
   # Colors for favicons
