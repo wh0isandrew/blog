@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt-br/categories/</loc>
+    <loc>https://andrew0x00.vercel.app/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://andrew0x00.vercel.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categories/"
+                href="https://andrew0x00.vercel.app/pt-br/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/</loc>
+    <loc>https://andrew0x00.vercel.app/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://andrew0x00.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
+                href="https://andrew0x00.vercel.app/pt-br/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/series/</loc>
+    <loc>https://andrew0x00.vercel.app/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://andrew0x00.vercel.app/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/series/"
+                href="https://andrew0x00.vercel.app/pt-br/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/</loc>
+    <loc>https://andrew0x00.vercel.app/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://andrew0x00.vercel.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
+                href="https://andrew0x00.vercel.app/pt-br/tags/"
                 />
   </url>
 </urlset>

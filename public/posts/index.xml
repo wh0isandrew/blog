@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Hi, I&#39;m André</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://andrew0x00.vercel.app/posts/</link>
         <description>Recent content in Posts on Hi, I&#39;m André</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Thu, 04 Oct 2007 00:00:00 +0000</lastBuildDate>
-        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://andrew0x00.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>First Post</title>
-            <link>http://localhost:1313/posts/2007/10/first-post/</link>
+            <link>https://andrew0x00.vercel.app/posts/2007/10/first-post/</link>
             <pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/2007/10/first-post/</guid>
+            <guid>https://andrew0x00.vercel.app/posts/2007/10/first-post/</guid>
             <description>&lt;p&gt;Just testing some stuff.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Just testing some stuff.</p>
 ]]></content>
@@ -22,20 +22,20 @@
         
         <item>
             <title>Let&#39;s try another time</title>
-            <link>http://localhost:1313/posts/2007/10/lets-try-another-time/</link>
+            <link>https://andrew0x00.vercel.app/posts/2007/10/lets-try-another-time/</link>
             <pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/2007/10/lets-try-another-time/</guid>
+            <guid>https://andrew0x00.vercel.app/posts/2007/10/lets-try-another-time/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
         
         <item>
             <title>Second time is a charm</title>
-            <link>http://localhost:1313/posts/2007/10/second-time-is-a-charm/</link>
+            <link>https://andrew0x00.vercel.app/posts/2007/10/second-time-is-a-charm/</link>
             <pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate>
             
-            <guid>http://localhost:1313/posts/2007/10/second-time-is-a-charm/</guid>
+            <guid>https://andrew0x00.vercel.app/posts/2007/10/second-time-is-a-charm/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
