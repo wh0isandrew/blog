@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt/</loc>
+    <loc>https://andrew0x00.vercel.app/pt/</loc>
     <lastmod>2007-10-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="https://andrew0x00.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/"
+                href="https://andrew0x00.vercel.app/pt/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/posts/</loc>
+    <loc>https://andrew0x00.vercel.app/pt/posts/</loc>
     <lastmod>2007-10-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/posts/"
+                href="https://andrew0x00.vercel.app/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/posts/"
+                href="https://andrew0x00.vercel.app/pt/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/posts/2007/10/primeiro-post/</loc>
+    <loc>https://andrew0x00.vercel.app/pt/posts/2007/10/primeiro-post/</loc>
     <lastmod>2007-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt/posts/2007/10/segundo-post/</loc>
+    <loc>https://andrew0x00.vercel.app/pt/posts/2007/10/segundo-post/</loc>
     <lastmod>2007-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt/posts/2007/10/terceiro-post/</loc>
+    <loc>https://andrew0x00.vercel.app/pt/posts/2007/10/terceiro-post/</loc>
     <lastmod>2007-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt/categories/</loc>
+    <loc>https://andrew0x00.vercel.app/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/"
+                href="https://andrew0x00.vercel.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/categories/"
+                href="https://andrew0x00.vercel.app/pt/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/series/</loc>
+    <loc>https://andrew0x00.vercel.app/pt/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/series/"
+                href="https://andrew0x00.vercel.app/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/series/"
+                href="https://andrew0x00.vercel.app/pt/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt/tags/</loc>
+    <loc>https://andrew0x00.vercel.app/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/"
+                href="https://andrew0x00.vercel.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/pt/tags/"
+                href="https://andrew0x00.vercel.app/pt/tags/"
                 />
   </url>
 </urlset>
