@@ -5,48 +5,48 @@
     <loc>https://andrew0x00.vercel.app/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://andrew0x00.vercel.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
+                hreflang="pt-BR"
                 href="https://andrew0x00.vercel.app/pt-br/categories/"
                 />
   </url><url>
     <loc>https://andrew0x00.vercel.app/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://andrew0x00.vercel.app/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
+                hreflang="pt-BR"
                 href="https://andrew0x00.vercel.app/pt-br/"
                 />
   </url><url>
     <loc>https://andrew0x00.vercel.app/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://andrew0x00.vercel.app/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
+                hreflang="pt-BR"
                 href="https://andrew0x00.vercel.app/pt-br/series/"
                 />
   </url><url>
     <loc>https://andrew0x00.vercel.app/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-US"
                 href="https://andrew0x00.vercel.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt-br"
+                hreflang="pt-BR"
                 href="https://andrew0x00.vercel.app/pt-br/tags/"
                 />
   </url>

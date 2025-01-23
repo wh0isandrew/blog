@@ -101,7 +101,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  # enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -122,7 +122,7 @@ disableHugoGeneratorInject = false
 
   # Custom footer
   # If you want, you can easily override the default footer with your own content.
-  #
+  
   [params.footer]
     trademark = 2025
     rss = false
@@ -238,15 +238,12 @@ disableHugoGeneratorInject = false
 [languages]
   [languages.en]
     weight    = 1
+    languageCode = 'en-US'
+    contentDir = 'content/en'
+    languageName = 'English'
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.en.params]
     subtitle  = "I’ll use this blog to share write-ups and anything interesting I come across."
-
-  [languages.pt-br]
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.pt-br.params]
-    title  = "Olá, eu me chamo André"
 
 [menu]
   [[menu.main]]

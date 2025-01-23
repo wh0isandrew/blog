@@ -1,0 +1,44 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hi, I&#39;m André</title>
+        <link>https://andrew0x00.vercel.app/pt-br/posts/</link>
+        <description>Recent content in Posts on Hi, I&#39;m André</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>pt-BR</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 04 Oct 2007 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://andrew0x00.vercel.app/pt-br/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>A segunda vez é o charme</title>
+            <link>https://andrew0x00.vercel.app/pt-br/posts/2007/10/a-segunda-vez-%C3%A9-o-charme/</link>
+            <pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrew0x00.vercel.app/pt-br/posts/2007/10/a-segunda-vez-%C3%A9-o-charme/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Primeiro Post</title>
+            <link>https://andrew0x00.vercel.app/pt-br/posts/2007/10/primeiro-post/</link>
+            <pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrew0x00.vercel.app/pt-br/posts/2007/10/primeiro-post/</guid>
+            <description>&lt;p&gt;Apenas testando algumas coisas.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Apenas testando algumas coisas.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Vamos tentar outra vez</title>
+            <link>https://andrew0x00.vercel.app/pt-br/posts/2007/10/vamos-tentar-outra-vez/</link>
+            <pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrew0x00.vercel.app/pt-br/posts/2007/10/vamos-tentar-outra-vez/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
