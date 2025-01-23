@@ -237,6 +237,7 @@ disableHugoGeneratorInject = false
 
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
+
 [languages]
   [languages.pt]
     contentDir = 'content/pt-br'
@@ -247,6 +248,21 @@ defaultContentLanguageInSubdir = true
     weight = 1
   [languages.pt.params]
     subtitle  = "Vou usar esse blog para compartilhar writeups e qualquer coisa intessante que eu encontrar."
+
+  [languages.pt.menus]
+    [[languages.pt.menu.main]]
+      identifier = "about"
+      name       = "Sobre"
+      url        = "about/"
+      weight = 10
+    [[languages.pt.menu.main]]
+      identifier = "posts"
+      name       = "Posts"
+      url        = "posts/"
+      weight = 20
+
+
+
   [languages.en]
     contentDir = 'content/en'
     languageCode = 'en-US'
@@ -256,12 +272,14 @@ defaultContentLanguageInSubdir = true
   [languages.en.params]
     subtitle  = "I’ll use this blog to share writeups and anything interesting I come across."
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+  [languages.en.menus]
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name       = "About"
+      url        = "about/"
+      weight = 10 
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      name       = "Posts"
+      url        = "posts/"
+      weight = 20
