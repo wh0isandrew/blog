@@ -235,15 +235,25 @@ disableHugoGeneratorInject = false
     url  = "https://www.linkedin.com/in/andr3l/"
 
 
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
 [languages]
+  [languages.pt]
+    contentDir = 'content/pt-br'
+    languageCode = 'pt-BR'
+    languageDirection = 'ltr'
+    languageName = 'Portuguese'
+    weight = 1
+  [languages.pt.params]
+    subtitle  = "Vou usar esse blog para compartilhar writeups e qualquer coisa intessante que eu encontrar."
   [languages.en]
-    weight    = 1
+    weight    = 2
     languageCode = 'en-US'
     contentDir = 'content/en'
     languageName = 'English'
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.en.params]
-    subtitle  = "I’ll use this blog to share write-ups and anything interesting I come across."
+    subtitle  = "I’ll use this blog to share writeups and anything interesting I come across."
 
 [menu]
   [[menu.main]]
