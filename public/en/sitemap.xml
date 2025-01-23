@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://andrew0x00.vercel.app/posts/2007/10/first-post/</loc>
+    <lastmod>2007-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrew0x00.vercel.app/</loc>
+    <lastmod>2007-10-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://andrew0x00.vercel.app/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://andrew0x00.vercel.app/"
+                />
+  </url><url>
+    <loc>https://andrew0x00.vercel.app/posts/2007/10/lets-try-another-time/</loc>
+    <lastmod>2007-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrew0x00.vercel.app/posts/</loc>
+    <lastmod>2007-10-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://andrew0x00.vercel.app/pt/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://andrew0x00.vercel.app/posts/"
+                />
+  </url><url>
+    <loc>https://andrew0x00.vercel.app/posts/2007/10/second-time-is-a-charm/</loc>
+    <lastmod>2007-10-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://andrew0x00.vercel.app/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -12,18 +47,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://andrew0x00.vercel.app/categories/"
-                />
-  </url><url>
-    <loc>https://andrew0x00.vercel.app/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="https://andrew0x00.vercel.app/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://andrew0x00.vercel.app/"
                 />
   </url><url>
     <loc>https://andrew0x00.vercel.app/series/</loc>
