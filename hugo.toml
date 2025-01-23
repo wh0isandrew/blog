@@ -243,15 +243,16 @@ defaultContentLanguageInSubdir = true
     languageCode = 'pt-BR'
     languageDirection = 'ltr'
     languageName = 'Portuguese'
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     weight = 1
   [languages.pt.params]
     subtitle  = "Vou usar esse blog para compartilhar writeups e qualquer coisa intessante que eu encontrar."
   [languages.en]
-    weight    = 2
-    languageCode = 'en-US'
     contentDir = 'content/en'
+    languageCode = 'en-US'
     languageName = 'English'
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    weight    = 2
   [languages.en.params]
     subtitle  = "I’ll use this blog to share writeups and anything interesting I come across."
 
