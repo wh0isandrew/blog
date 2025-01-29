@@ -1,9 +1,9 @@
 ---
 title: "First Post"
 description: 
-date: 2007-10-04T00:00:00Z
+date: 2025-01-29T00:00:00Z 
 draft: false
 ---
+
 Just testing some stuff.
 
-{{< generateDate >}}

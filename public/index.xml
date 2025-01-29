@@ -7,27 +7,27 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 04 Oct 2007 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrew0x00.vercel.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://andrew0x00.vercel.app/posts/2007/10/first-post/</link>
-      <pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://andrew0x00.vercel.app/posts/2007/10/first-post/</guid>
-      <description>&lt;p&gt;Just testing some stuff.&lt;/p&gt;&#xA;29-01-2025 02:21</description>
+      <link>https://andrew0x00.vercel.app/posts/2025/01/first-post/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrew0x00.vercel.app/posts/2025/01/first-post/</guid>
+      <description>&lt;p&gt;Just testing some stuff.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Let&#39;s try another time</title>
-      <link>https://andrew0x00.vercel.app/posts/2007/10/lets-try-another-time/</link>
-      <pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://andrew0x00.vercel.app/posts/2007/10/lets-try-another-time/</guid>
+      <link>https://andrew0x00.vercel.app/posts/2025/01/lets-try-another-time/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrew0x00.vercel.app/posts/2025/01/lets-try-another-time/</guid>
       <description></description>
     </item>
     <item>
       <title>Second time is a charm</title>
-      <link>https://andrew0x00.vercel.app/posts/2007/10/second-time-is-a-charm/</link>
-      <pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://andrew0x00.vercel.app/posts/2007/10/second-time-is-a-charm/</guid>
+      <link>https://andrew0x00.vercel.app/posts/2025/01/second-time-is-a-charm/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrew0x00.vercel.app/posts/2025/01/second-time-is-a-charm/</guid>
       <description></description>
     </item>
   </channel>
