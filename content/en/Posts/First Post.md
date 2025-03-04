@@ -1,9 +1,7 @@
 ---
-title: "First Post"
+title: First Post
 description: 
-date: 2025-01-29T00:00:00-03:00
-draft: false
+date: 2025-01-29T00:00:00Z 
+draft: true
 ---
-
 Just testing some stuff.
-

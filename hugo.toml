@@ -247,7 +247,7 @@ defaultContentLanguageInSubdir = true
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     weight = 1
   [languages.pt.params]
-    subtitle  = "Vou usar esse blog para compartilhar writeups e qualquer coisa intessante que eu encontrar."
+    homeSubtitle  = "Vou usar esse blog para compartilhar writeups e qualquer coisa intessante que eu encontrar."
 
   [languages.pt.menus]
     [[languages.pt.menu.main]]
@@ -270,7 +270,7 @@ defaultContentLanguageInSubdir = true
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     weight    = 2
   [languages.en.params]
-    subtitle  = "I’ll use this blog to share writeups and anything interesting I come across."
+    Content   = "I’ll use this blog to share writeups and anything interesting I come across."
 
   [languages.en.menus]
     [[languages.en.menu.main]]
